@@ -1,7 +1,5 @@
 # ESP32-S3-Based Multi-Axis CNC Motion Controller
 
-`Design and Implementation of an Open-Source ESP32-S3-Based Multi-Axis CNC Motion Controller Optimised for Fused Deposition Modelling Applications`
-
 ---
 
 ## GitHub Repository
@@ -19,6 +17,8 @@
 ---
 
 ## Abstract
+
+`Design and Implementation of an Open-Source ESP32-S3-Based Multi-Axis CNC Motion Controller Optimised for Fused Deposition Modelling Applications`
 
 Commercial 3D printer control boards available in the Pakistani market are either imported at a significant cost premium, clones of aging designs (RAMPS 1.4, MKS Nano) with limited processing capability and poor thermal and electrical protection, or proprietary units locked to specific machine ecosystems. None are designed around components that are reliably stocked in the Karachi local electronics market, and none expose the full feature set of a modern 32-bit microcontroller in an open, student-reproducible form.
 
