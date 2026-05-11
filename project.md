@@ -14,7 +14,7 @@
 
 | Full Name | Student ID | GitHub Username | Habib Email | Program | Year | Role |
 |---|---|---|---|---|---|---|
-| Basil Saeed Bari | BB09892 | BasilSaeedBari | bb09892@st.habib.edu.pk | CE | 4 | Lead / Principal Investigator |
+| Basil Saeed Bari | BB09892 | BasilSaeedBari | bb09892@st.habib.edu.pk | CE | 3 | Lead / Principal Investigator |
 
 ---
 
