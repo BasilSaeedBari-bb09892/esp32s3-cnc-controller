@@ -19,7 +19,7 @@ This repository contains the complete open-source design of a **multi-axis CNC m
 
 The project was motivated by a specific gap in the Karachi electronics ecosystem: no well-documented, student-reproducible, locally-sourceable motion controller PCB exists. All commonly available boards (RAMPS 1.4, MKS Nano, SKR series) are either imported clones of aging designs, or proprietary units with poor local support. This board is designed from schematics to Gerbers to BOM using only components routinely stocked in the Karachi local electronics market, with PCB fabrication achievable on university equipment.
 
-The completed board is the intended permanent controller for the companion [CSY FDM Printer](https://github.com/BasilSaeedBari/csy-fdm-printer) project and a candidate for retrofitting the bricked MakerBot Replicator 2 in the Habib University Engineering Workshop.
+The completed board is the intended permanent controller for the companion [CSY FDM Printer](https://github.com/BasilSaeedBari-bb09892/CSY-FDM-Printer) project and a candidate for retrofitting the bricked MakerBot Replicator 2 in the Habib University Engineering Workshop.
 
 ---
 
@@ -181,7 +181,7 @@ Full procedure in `docs/BRINGUP.md`. Key sequence:
 
 This board is designed as the permanent controller for:
 
-- **[CSY FDM Printer](https://github.com/BasilSaeedBari/csy-fdm-printer)** — A compact 100×100×100 mm FDM 3D printer implementing the novel Circumferential Synchronous Y-axis (CSY) belt mechanism. Currently uses RAMPS 1.4 as an interim controller while this board is validated.
+- **[CSY FDM Printer](https://github.com/BasilSaeedBari-bb09892/CSY-FDM-Printer)** — A compact 100×100×100 mm FDM 3D printer implementing the novel Circumferential Synchronous Y-axis (CSY) belt mechanism. Currently uses RAMPS 1.4 as an interim controller while this board is validated.
 
 ---
 
