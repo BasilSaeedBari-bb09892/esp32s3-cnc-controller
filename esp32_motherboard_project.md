@@ -1,4 +1,4 @@
-# Project Title
+# ESP32-S3-Based Multi-Axis CNC Motion Controller
 
 `Design and Implementation of an Open-Source ESP32-S3-Based Multi-Axis CNC Motion Controller Optimised for Fused Deposition Modelling Applications`
 
