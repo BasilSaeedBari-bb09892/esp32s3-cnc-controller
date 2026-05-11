@@ -44,7 +44,7 @@ A secondary problem is the recovery of the bricked MakerBot Replicator 2: the co
 
 ## Domain & IEEE Alignment
 
-**Primary Domain:** *(select one by replacing `[ ]` with `[x]`)*
+**Primary Domain:**
 - [ ] Electrical Engineering
 - [ ] Computer Science
 - [x] Computer Engineering
